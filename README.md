@@ -49,4 +49,12 @@ Working Live Project Display:
 Home page:
 ![WhatsApp Image 2025-01-07 at 23 10 38_ce64f82e](https://github.com/user-attachments/assets/a043df4a-0059-4ad8-b5eb-12d7e45fe71d)
 
+WE OFFER:
+![image](https://github.com/user-attachments/assets/4e90178e-d082-4d7e-947d-e8f8d91b7197)
+
+OUR PRICING PLAN:
+![image](https://github.com/user-attachments/assets/a4104743-d190-4d82-8598-2e60daea3ea8)
+
+
+
 Final Project Statement:The objective of this project is to develop and establish GYM-Fitness as a premier fitness center dedicated to providing a comprehensive and personalized fitness experience to individuals of all fitness levels. Through this project, we aim to create an inclusive environment where members can achieve their health and wellness goals through high-quality fitness equipment, expert-led training programs, and a supportive community.
